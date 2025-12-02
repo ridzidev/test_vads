@@ -1,6 +1,6 @@
 @extends('app')
 
-@section('title', 'Service Desk Dashboard - VADS System')
+@section('title', 'Service Desk Dashboard - Real-Time Web Chat Application')
 @section('page-title', 'Service Desk Dashboard')
 
 @section('content')

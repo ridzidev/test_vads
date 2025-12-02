@@ -1,6 +1,6 @@
 @extends('app')
 
-@section('title', 'Live Chat - VADS System')
+@section('title', 'Live Chat - Real-Time Web Chat Application')
 @section('page-title', 'Live Chat Customer')
 
 @section('content')

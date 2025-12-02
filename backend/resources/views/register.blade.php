@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <title>Register - VADS System</title>
+    <title>Register - Real-Time Web Chat Application</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
@@ -37,7 +37,7 @@
                 <div class="inline-block bg-white bg-opacity-80 backdrop-blur-lg rounded-full p-6 mb-4 shadow-lg">
                     <i class="fas fa-cube text-5xl text-blue-600 animate-spin"></i>
                 </div>
-                <h1 class="text-4xl font-extrabold text-white mb-2 drop-shadow-lg tracking-tight">VADS System</h1>
+                <h1 class="text-4xl font-extrabold text-white mb-2 drop-shadow-lg tracking-tight">Real-Time Web Chat Application</h1>
                 <p class="text-blue-100 text-lg">Daftar Akun Baru</p>
             </div>
 
@@ -161,7 +161,7 @@
             <!-- Footer -->
             <div class="mt-8 text-center">
                 <p class="text-blue-100 text-sm drop-shadow">
-                    &copy; 2025 VADS System. Semua hak dilindungi.
+                    &copy; 2025 Real-Time Web Chat Application. Semua hak dilindungi. Created by ridzidev.
                 </p>
             </div>
     </div>

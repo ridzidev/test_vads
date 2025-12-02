@@ -1,6 +1,6 @@
 @extends('app')
 
-@section('title', 'Antrian - VADS System')
+@section('title', 'Antrian - Real-Time Web Chat Application')
 @section('page-title', 'Ruang Antrian')
 
 @section('content')
