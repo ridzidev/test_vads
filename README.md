@@ -263,7 +263,6 @@ POST /api/data
 
 #### Details
 - Requires bearer token from Problem 4.
-- Screenshot of response using Postman/SOAPUI: ![Screenshot](images/screenshot1.png)
 
 ## Installation and Setup
 
