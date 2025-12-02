@@ -6,7 +6,19 @@ This project is a comprehensive real-time web chat application designed to facil
 
 The app is built to handle multiple modules including user authentication, chat sessions, queue rooms, and admin dashboards. It ensures a seamless experience for both customers and service desk personnel.
 
-- Login Page: ![Screenshot](images/screenshot1.png)
+- Login: ![Screenshot](images/screenshot1.png)
+- register: ![Screenshot](images/register.png)
+- Admin service-desk-dashboard: ![Screenshot](images/admin-sd.png)
+- Admin master-customers: ![Screenshot](images/admin-customers.png)
+- Admin master-customers-load: ![Screenshot](images/admin-customers1.png)
+- Admin Dashboard: ![Screenshot](images/admin-dashboard.png)
+
+- Customers waiting : ![Screenshot](images/customer-idle.png)
+- admin pickup  : ![Screenshot](images/admin-pickup.png)
+![Screenshot](images/admin-antrian.png)
+![Screenshot](images/admin-chat.png)
+
+- Customers Chat : ![Screenshot](images/customer-chat.png)
 
 
 ## Features

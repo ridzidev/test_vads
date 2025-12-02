@@ -52,16 +52,6 @@
             </div>
         </div>
 
-        <!-- Logout Button -->
-        <div class="p-4 border-t-2 border-gray-200 bg-gray-50 mt-auto">
-            <form action="{{ route('logout') }}" method="POST" id="logoutForm">
-                @csrf
-                <button type="button" id="logoutBtn"
-                    class="w-full bg-gradient-to-r from-red-600 to-rose-600 hover:from-red-700 hover:to-rose-700 text-white font-bold py-3 rounded-lg transition transform hover:scale-105 shadow-lg flex items-center justify-center gap-2">
-                    <i class="fas fa-sign-out-alt"></i> Sign Out
-                </button>
-            </form>
-        </div>
     </div>
 
     <!-- Main Content: Chat Area -->
