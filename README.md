@@ -6,6 +6,9 @@ This project is a comprehensive real-time web chat application designed to facil
 
 The app is built to handle multiple modules including user authentication, chat sessions, queue rooms, and admin dashboards. It ensures a seamless experience for both customers and service desk personnel.
 
+- Login Page: ![Screenshot](images/screenshot1.png)
+
+
 ## Features
 
 - **Live Chat**: Real-time chat functionality allowing customers to communicate with service desk agents.
@@ -179,7 +182,6 @@ POST /api/token
 #### Details
 - Uses secretKey: Qw3rty09!@#
 - Payload: ['exp' => '1 hour']
-- Screenshot of response using Postman/SOAPUI: ![Screenshot](images/screenshot1.png)
 
 ### Problem 5: API POST with Bearer Token
 
